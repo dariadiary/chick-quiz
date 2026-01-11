@@ -1,4 +1,4 @@
-# Chick Quiz — A Cute Little Personality Quiz 🐣
+# Chick Quiz — A Cute Little Personality Quiz
 
 ## Project Description
 Chick Quiz is a cozy mini quiz app where you answer simple questions and get a fun result at the end.
